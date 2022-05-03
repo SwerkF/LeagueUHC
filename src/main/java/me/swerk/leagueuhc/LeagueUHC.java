@@ -9,12 +9,9 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public final class LeagueUHC extends JavaPlugin implements Listener {
 
-    private static LeagueUHC plugin;
+
     @Override
     public void onEnable() {
-        // Plugin startup logic
-
-        plugin = this;
 
         getConfig().options().copyDefaults();
         saveDefaultConfig();
@@ -25,10 +22,8 @@ public final class LeagueUHC extends JavaPlugin implements Listener {
         getCommand("gm1").setExecutor(new gm1Command());
         getCommand("gm0").setExecutor(new gm0Command());
         getCommand("backpack").setExecutor(new backPackCommand());
-        getCommand("repeat").setExecutor(new repeatCommand());
+        getCommand("menu").setExecutor(new menuCommand());
+
     }
 
-    public static LeagueUHC getPlugin() {
-        return plugin;
-    }
 }
