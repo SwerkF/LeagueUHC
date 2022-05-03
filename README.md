@@ -58,7 +58,7 @@ Shen :
 Teemo : 
 Tryndamere :
 Trundle : 
-Veigar
+Veigar :
 Vladimir : 
 Yasuo :
 Yone : 
