@@ -8,6 +8,6 @@ public class creeperCancelListener implements Listener {
 
     public void onExplode(CreeperPowerEvent e) {
 
-        if()
+
     }
 }
