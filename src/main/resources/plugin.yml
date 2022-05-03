@@ -16,3 +16,6 @@ commands:
   backpack:
     description: Ouvrir son backpack
     usage: /<command>
+  repeat:
+    description:
+    usage: /<command> <args>
