@@ -32,3 +32,41 @@ Les bordures se rétrécissent au bout de 30 minutes de jeu afin de regrouper to
 Liste des rôles disponible dans le jeu avec leurs spécifications et équipe :
 
 Ahri :
+Ashe : 
+BlitzCrank :
+Cho'Gath : 
+FiddleSticks : 
+Fizz : 
+Gnar : 
+Graves : 
+Jax : 
+Jinx : 
+Kalista : 
+Kayle : 
+Kindred : 
+Kog'Maw : 
+LeBlanc : 
+Leona : 
+Morgana : 
+Neeko : 
+Nunu : 
+Willump : 
+Pyke : 
+Shaco :
+Double de Shaco : 
+Shen : 
+Teemo : 
+Tryndamere :
+Trundle : 
+Veigar
+Vladimir : 
+Yasuo :
+Yone : 
+Yuumi :
+Zilean :
+
+## Plus d'information 🧸
+Pour plus d'information, vous pouvez m'envoyer un message sur Discord : Swerk#0911.
+
+
+README.md (modifié 03/05/2022)
