@@ -50,6 +50,11 @@ public class menuCommand implements CommandExecutor {
         startMeta.setLore(Arrays.asList("Lancez la partie quand vous êtes prêt"));
         start.setItemMeta(startMeta);
 
+        ItemStack grayGlassPane = new ItemStack(Material.STAINED_GLASS_PANE,1,(byte)7);
+
+        for(int i = 0; i < inventory.getSize(); i++){
+            inventory.setItem(i,grayGlassPane);
+        }
 
         inventory.setItem(1,item);
         inventory.setItem(3,item2);
